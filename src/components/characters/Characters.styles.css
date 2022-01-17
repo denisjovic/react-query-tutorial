@@ -3,3 +3,16 @@
   width: 100%;
   justify-content: space-around;
 }
+
+.buttons button {
+  background-color: yellow;
+}
+
+.buttons button:hover {
+  cursor: pointer;
+}
+
+.buttons button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}

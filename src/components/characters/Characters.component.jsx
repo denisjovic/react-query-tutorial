@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { useQuery } from 'react-query'
-import Character from '../Character.component'
+import Character from '../character/Character.component'
 import './Characters.styles.css'
 
 export default function CharactersWithQuery() {
