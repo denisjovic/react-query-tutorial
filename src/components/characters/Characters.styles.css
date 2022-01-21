@@ -5,7 +5,8 @@
 }
 
 .buttons button {
-  background-color: #0d131f;
+  background-color: #3b81f6;
+  border: none;
 }
 
 .buttons button:hover {

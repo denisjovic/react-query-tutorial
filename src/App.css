@@ -11,7 +11,7 @@
 
 h1 {
   padding: 2.5rem 0;
-  color: #3b81f6;
+  color: #fff;
   font-size: 5rem;
   text-align: center;
 }
@@ -51,7 +51,7 @@ h1 {
 
 .text-container {
   padding: 1rem;
-  color: #101820ff;
+  color: #fff;
   font-size: 1.25rem;
 }
 
@@ -64,7 +64,7 @@ h1 {
 }
 
 .title {
-  color: #3b81f6;
+  color: #fff;
   font-size: 1.5rem;
   margin-bottom: 0.5rem;
 }
