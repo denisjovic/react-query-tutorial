@@ -1,5 +1,5 @@
 .App {
-  background-color: #0d131f;
+  background-color: #fff;
   display: flex;
   justify-content: center;
 }
@@ -11,7 +11,7 @@
 
 h1 {
   padding: 2.5rem 0;
-  color: #fff;
+  color: #3b81f6;
   font-size: 5rem;
   text-align: center;
 }
@@ -31,9 +31,14 @@ h1 {
   display: flex;
 }
 
+.card:hover {
+  transform: scale(1.03);
+}
+
 .card img {
   width: 15rem;
   height: 100%;
+  opacity: 0.9;
 }
 
 .loading {
@@ -45,7 +50,7 @@ h1 {
 }
 
 .loading h3 {
-  color: #3b81f6;
+  color: #fff;
   font-size: 7.5rem;
 }
 
