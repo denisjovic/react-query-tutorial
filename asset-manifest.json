@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-query-tutorial/static/css/main.8795ef46.css",
+    "main.css": "/react-query-tutorial/static/css/main.e69840da.css",
     "main.js": "/react-query-tutorial/static/js/main.2ea7790a.js",
     "static/js/787.1f835fe4.chunk.js": "/react-query-tutorial/static/js/787.1f835fe4.chunk.js",
     "index.html": "/react-query-tutorial/index.html",
-    "main.8795ef46.css.map": "/react-query-tutorial/static/css/main.8795ef46.css.map",
+    "main.e69840da.css.map": "/react-query-tutorial/static/css/main.e69840da.css.map",
     "main.2ea7790a.js.map": "/react-query-tutorial/static/js/main.2ea7790a.js.map",
     "787.1f835fe4.chunk.js.map": "/react-query-tutorial/static/js/787.1f835fe4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8795ef46.css",
+    "static/css/main.e69840da.css",
     "static/js/main.2ea7790a.js"
   ]
 }
